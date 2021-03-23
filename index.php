@@ -18,7 +18,7 @@
 
     if($access){
         
-        echo "SITE DE OUF FRERO";
+        echo "SITE DE OUF FRERO !";
 
     }else{
         echo "c'est incroyable ce truc";

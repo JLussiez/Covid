@@ -18,7 +18,7 @@ if(!is_null($base)){
         $access = afficheFormulaireLogout($base);
     }else{
         $access = false;
-        $errorMessage.= "Vous devez vous connectez";
+        $errorMessage.= "Vous devez vous connectez.";
         // Affichage de formulaire si pas deconnexion
         $access = afficheFormulaireConnexion($base);
     }
@@ -52,7 +52,7 @@ function afficheFormulaireLogout($base){
         </form>
 
     <?php
-    
+      
     }
 
     return $access;
