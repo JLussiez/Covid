@@ -88,11 +88,11 @@ function afficheFormulaireConnexion($base){
         <form action="" method="post" >
             <div>
                 <label for="login">Enter your login: </label>
-                <input type="text" name="login" id="login" required value="Rapidecho">
+                <input type="text" name="login" id="login" required value="Jaune">
             </div>
             <div >
                 <label for="password">Enter your pass: </label>
-                <input type="password" name="password" id="password" required value="Julien1234">
+                <input type="password" name="password" id="password" required value="Alain123">
             </div>
             <div >
                 <input type="submit" value="Go!" >
