@@ -1,0 +1,3 @@
+<?php
+echo"COVID DE SES MORTS LAAAAAAA, LE JOE";
+?>
